@@ -1,0 +1,10 @@
+{
+  "name": "is-valid-zipcode",
+  "main": "is-valid-zipcode.d.ts",
+  "author": "Joshua Harms <joshua@nozzlegear.com>",
+  "description": "A Typescript/Typings definition for is-valid-zipcode.",
+  "ambientDevDependencies": {},
+  "dependencies": {
+    
+  }
+}
